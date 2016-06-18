@@ -1,0 +1,4 @@
+*~
+*.mo
+file-search/gschemas.compiled
+__pycache__/
